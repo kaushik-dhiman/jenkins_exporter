@@ -1,4 +1,4 @@
-# Jenkins Exporter
+# Jenkins Exporter (Improved version)
 
 [![Build Status](https://api.travis-ci.org/lovoo/jenkins_exporter.svg?branch=travis_setup)](https://travis-ci.org/lovoo/jenkins_exporter)
 
